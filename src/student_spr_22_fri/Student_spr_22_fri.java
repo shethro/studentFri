@@ -7,6 +7,8 @@ import java.util.Scanner;
 public class Student_spr_22_fri {
 
    //comments added from git hub for pull operation
+   
+   //comments added for fetch +merge
     public static void main(String[] args) {
         System.out.println("Enter your word");
         Scanner input = new Scanner(System.in);
