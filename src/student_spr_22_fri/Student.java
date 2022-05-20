@@ -1,19 +1,25 @@
 
 package student_spr_22_fri;
 
-
+ 
 public class Student {
     private int studentId;
     private String studentName;
+    private String address;
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
 
     public Student(int studentId, String studentName) {
         this.studentId = studentId;
         this.studentName = studentName;
     }
-    
-    
-
-    public int getStudentId() {
+        public int getStudentId() {
         return studentId;
     }
 
