@@ -3,7 +3,7 @@ package student_spr_22_fri;
 
 import java.util.Scanner;
 
-//comments 
+
 public class Student_spr_22_fri {
 
    
